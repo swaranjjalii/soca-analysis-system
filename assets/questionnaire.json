@@ -1,0 +1,137 @@
+{
+    "questionnaire": [
+      {
+        "section": "Subject Knowledge",
+        "questions": [
+          {
+            "type": "slider",
+            "question": "Rate your Mathematics proficiency (1-10)",
+            "min": 1,
+            "max": 10,
+            "default": 5
+          },
+          {
+            "type": "slider",
+            "question": "Rate your Physics proficiency (1-10)",
+            "min": 1,
+            "max": 10,
+            "default": 5
+          },
+          {
+            "type": "slider",
+            "question": "Rate your Chemistry proficiency (1-10)",
+            "min": 1,
+            "max": 10,
+            "default": 5
+          }
+        ]
+      },
+      {
+        "section": "Study Habits",
+        "questions": [
+          {
+            "type": "number",
+            "question": "How many hours do you study daily?",
+            "min": 0,
+            "max": 16,
+            "default": 4
+          },
+          {
+            "type": "select_slider",
+            "question": "How would you rate your time management skills?",
+            "options": ["Poor", "Average", "Good", "Excellent"],
+            "default": "Average"
+          },
+          {
+            "type": "radio",
+            "question": "What is your primary study method?",
+            "options": [
+              "Self-study",
+              "Coaching classes",
+              "Group study",
+              "Online courses"
+            ]
+          }
+        ]
+      },
+      {
+        "section": "Problem Solving",
+        "questions": [
+          {
+            "type": "radio",
+            "question": "What is your preferred problem-solving approach?",
+            "options": [
+              "Conceptual Understanding",
+              "Formula Memorization",
+              "Practice Problems"
+            ]
+          },
+          {
+            "type": "slider",
+            "question": "Rate your problem-solving speed (1-10)",
+            "min": 1,
+            "max": 10,
+            "default": 5
+          },
+          {
+            "type": "select",
+            "question": "Which subject do you find most challenging?",
+            "options": ["Mathematics", "Physics", "Chemistry"]
+          }
+        ]
+      },
+      {
+        "section": "Stress Management",
+        "questions": [
+          {
+            "type": "select_slider",
+            "question": "How would you describe your current stress level?",
+            "options": ["Very Low", "Low", "Moderate", "High", "Very High"],
+            "default": "Moderate"
+          },
+          {
+            "type": "radio",
+            "question": "How do you typically manage stress?",
+            "options": [
+              "Exercise/Sports",
+              "Meditation",
+              "Entertainment",
+              "Talking to friends/family",
+              "I don't manage stress"
+            ]
+          },
+          {
+            "type": "slider",
+            "question": "Rate your sleep quality (1-10)",
+            "min": 1,
+            "max": 10,
+            "default": 5
+          }
+        ]
+      },
+      {
+        "section": "Study Resources",
+        "questions": [
+          {
+            "type": "multiselect",
+            "question": "Which resources do you use for preparation?",
+            "options": [
+              "NCERT Books",
+              "Reference Books",
+              "Online Videos",
+              "Coaching Material",
+              "Mock Tests",
+              "Mobile Apps"
+            ]
+          },
+          {
+            "type": "slider",
+            "question": "How satisfied are you with your current resources? (1-10)",
+            "min": 1,
+            "max": 10,
+            "default": 5
+          }
+        ]
+      }
+    ]
+  }
