@@ -69,6 +69,10 @@ Google's *Gemini AI* is utilized for processing student responses and generating
 - *Context-Aware Analysis:* Generates personalized insights based on user input.
 - *Scalability:* Can analyze responses for multiple users efficiently.
 - *AI-Driven Decision Making:* Helps students identify learning gaps and take actionable steps.
+- Deep Natural Language Understanding for analyzing and processing text-based inputs.
+- Generative Capabilities to create structured and insightful responses.
+- Multi-Turn Conversations that maintain context over long interactions.
+- Integration with Google Cloud AI Ecosystem for scalability and efficiency.
 
 ## Questionnaire Structure
 The questionnaire is stored in `soca-analysis-system/assets/questionnaire.json` and consists of multiple sections, each containing relevant questions.
