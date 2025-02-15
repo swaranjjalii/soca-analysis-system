@@ -1,4 +1,3 @@
-# soca-analysis-system
 # JEE SOCA Analysis System 🚀
 
 ## Overview
@@ -96,4 +95,8 @@ Feel free to submit *issues* or *pull requests* if you want to contribute!
 
 ## License
 This project is licensed under the *MIT License*.
+
+##Conclusion
+
+The JEE SOCA Analysis System leverages Google Gemini AI to provide data-driven insights to students, helping them improve their JEE preparation through structured analysis. This AI-powered approach ensures that students receive personalized feedback to optimize their study plans effectively.
 
