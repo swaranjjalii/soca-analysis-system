@@ -74,6 +74,13 @@ Google's *Gemini AI* is utilized for processing student responses and generating
 - Multi-Turn Conversations that maintain context over long interactions.
 - Integration with Google Cloud AI Ecosystem for scalability and efficiency.
 
+##Google Gemini Versions
+Google Gemini AI has multiple versions, each improving upon previous iterations:
+1. Gemini 1.0: Initial release with strong natural language processing capabilities.
+2. Gemini 1.5: Enhanced multi-modal capabilities (text, images, and voice processing).
+3. Gemini Ultra: Advanced version optimized for enterprise-level AI applications.
+
+   
 ## Questionnaire Structure
 The questionnaire is stored in `soca-analysis-system/assets/questionnaire.json` and consists of multiple sections, each containing relevant questions.
 
