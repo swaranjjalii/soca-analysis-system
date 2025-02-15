@@ -13,6 +13,7 @@ model = genai.GenerativeModel('gemini-pro')
 
 # Load questionnaire from JSON
 def load_questionnaire():
+    filepath = "assets/questionnaire.json"
     with open('assets/questionnaire.json', 'r') as f:
         return json.load(f)
 
