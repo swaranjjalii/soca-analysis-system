@@ -91,10 +91,10 @@ def main():
                 
                 prompt += """
                 Provide the analysis in this format:
-                *Strengths:* [Identify 3 key strengths]
-                *Opportunities:* [Suggest 3 improvement areas]
-                *Challenges:* [List 3 main challenges]
-                *Action Plan:* [Create 4 actionable steps]
+                **Strengths:** [Identify 3 key strengths]
+                **Opportunities:** [Suggest 3 improvement areas]
+                **Challenges:** [List 3 main challenges]
+                **Action Plan:** [Create 4 actionable steps]
                 """
                 
                 # Get Gemini response
