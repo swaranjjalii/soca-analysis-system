@@ -74,7 +74,7 @@ Google's *Gemini AI* is utilized for processing student responses and generating
 - Multi-Turn Conversations that maintain context over long interactions.
 - Integration with Google Cloud AI Ecosystem for scalability and efficiency.
 
-##Google Gemini Versions
+## Google Gemini Versions
 Google Gemini AI has multiple versions, each improving upon previous iterations:
 1. Gemini 1.0: Initial release with strong natural language processing capabilities.
 2. Gemini 1.5: Enhanced multi-modal capabilities (text, images, and voice processing).
@@ -107,7 +107,7 @@ Feel free to submit *issues* or *pull requests* if you want to contribute!
 ## License
 This project is licensed under the *MIT License*.
 
-##Conclusion
+## Conclusion
 
 The JEE SOCA Analysis System leverages Google Gemini AI to provide data-driven insights to students, helping them improve their JEE preparation through structured analysis. This AI-powered approach ensures that students receive personalized feedback to optimize their study plans effectively.
 
